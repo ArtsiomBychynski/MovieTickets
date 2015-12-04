@@ -1,0 +1,45 @@
+﻿@using MovieTickets.Entities.Models
+@model IEnumerable<MovieTickets.Entities.Models.Film>
+
+@{
+    ViewBag.Title = "Фильмы";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            Название
+        </th>
+        <th>
+            Постер
+        </th>
+        <th>
+            Описание
+        </th>
+        <th></th>
+    </tr>
+    @if (Model != null)
+    {
+        foreach (Film item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+
+                    <img src=@String.Format("./../../Content/Images/" + item.Image) />
+
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    <a class="btn btn-success" href=@Url.Action("GetSeance", "Ticket", new {filmId = item.Id})><i class="fa fa-ticket"></i> Купить билет</a>
+                </td>
+            </tr>
+        }
+    }
+</table>

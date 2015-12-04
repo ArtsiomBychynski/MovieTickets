@@ -1,0 +1,60 @@
+﻿@using MovieTickets.Entities.Models
+@model IEnumerable<MovieTickets.Entities.Models.Film>
+
+@{
+    ViewBag.Title = "NewFilm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="title-new-films">
+    <p>
+        <a class="btn btn-info" href=@Url.Action("Create", "Film")>
+            <i class="fa fa-film"></i> Добавить фильм
+        </a>
+    </p>
+</div>
+<table class="table">
+    <tr>
+        <th>
+            Название
+        </th>
+        <th>
+            Постер
+        </th>
+        <th>
+            Описание
+        </th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (Film item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                <img src=@String.Format("./../../Content/Images/" + item.Image) />
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                
+                <a class="btn btn-danger" href=@Url.Action("Delete", "Film", new {id = item.Id})>
+                    <i class="fa fa-trash-o fa-lg"></i> Удалить
+                </a>
+                
+            </td>
+            <td>
+                <a class="btn btn-info" href=@Url.Action("Edit", "Film", new { id = item.Id })>
+                    <i class="fa fa-cog"></i> Редактировать
+                </a>
+
+           </td>
+        </tr>
+    }
+
+</table>

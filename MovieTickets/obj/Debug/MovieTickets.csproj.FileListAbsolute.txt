@@ -1,0 +1,132 @@
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\obj\Debug\MovieTickets.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\AutoMapper.Net4.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.dll.config
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.pdb
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Antlr3.Runtime.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\AutoMapper.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\BusinessLogic.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\DataAccess.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\EntityFramework.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\EntityFramework.SqlServer.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.Domain.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.Entities.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Newtonsoft.Json.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Ninject.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Owin.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Net.Http.Formatting.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Helpers.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Http.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Http.Owin.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Mvc.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Optimization.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Razor.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.Razor.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\WebGrease.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\BusinessLogic.pdb
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\DataAccess.pdb
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.Domain.pdb
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.Entities.pdb
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Antlr3.Runtime.pdb
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\AutoMapper.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\EntityFramework.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\EntityFramework.SqlServer.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Newtonsoft.Json.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Ninject.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Net.Http.Formatting.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Helpers.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Http.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Http.Owin.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Mvc.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Optimization.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Razor.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.Razor.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\obj\Debug\MovieTickets.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets\obj\Debug\MovieTickets.pdb
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\AutoMapper.Net4.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.dll.config
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.pdb
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Antlr3.Runtime.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\AutoMapper.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\BusinessLogic.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\DataAccess.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\EntityFramework.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\EntityFramework.SqlServer.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.Domain.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.Entities.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Newtonsoft.Json.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Ninject.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Owin.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Net.Http.Formatting.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Helpers.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Http.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Http.Owin.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Mvc.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Optimization.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Razor.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.Razor.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\WebGrease.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\BusinessLogic.pdb
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\DataAccess.pdb
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.Domain.pdb
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\MovieTickets.Entities.pdb
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Antlr3.Runtime.pdb
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\AutoMapper.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\EntityFramework.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\EntityFramework.SqlServer.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Newtonsoft.Json.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\Ninject.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Net.Http.Formatting.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Helpers.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Http.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Http.Owin.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Mvc.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Optimization.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.Razor.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\bin\System.Web.WebPages.Razor.xml
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\obj\Debug\MovieTickets.csprojResolveAssemblyReference.cache
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\obj\Debug\MovieTickets.dll
+C:\Users\jawa\Desktop\Курсач 7 сем\asp.net-mvc-master\MovieTickets\MovieTickets\obj\Debug\MovieTickets.pdb

@@ -1,0 +1,12 @@
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\obj\Debug\MovieTickets.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\bin\Debug\MovieTickets.Entities.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\bin\Debug\MovieTickets.Entities.pdb
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\obj\Debug\MovieTickets.Entities.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\obj\Debug\MovieTickets.Entities.pdb
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Entities\bin\Debug\EntityFramework.xml

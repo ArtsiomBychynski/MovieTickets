@@ -1,0 +1,5 @@
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Domain\bin\Debug\MovieTickets.Domain.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Domain\bin\Debug\MovieTickets.Domain.pdb
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Domain\obj\Debug\MovieTickets.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Domain\obj\Debug\MovieTickets.Domain.dll
+C:\Users\Виктория\Downloads\asp.net-mvc-master\MovieTickets\MovieTickets.Domain\obj\Debug\MovieTickets.Domain.pdb

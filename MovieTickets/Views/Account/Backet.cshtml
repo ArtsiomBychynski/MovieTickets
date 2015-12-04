@@ -1,0 +1,70 @@
+﻿@using MovieTickets.ViewModels
+@model IEnumerable<MovieTickets.ViewModels.TicketViewModels>
+
+@{
+    ViewBag.Title = "Backet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<table class="table">
+    <tr>
+        <th>
+            Название фильма
+        </th>
+        <th>
+            Дата сеанса
+        </th>
+        <th>
+            Время сеанса
+        </th>
+        <th>
+            Ряд
+        </th>
+        <th>
+            Место
+        </th>
+        <th>
+            Цена
+        </th>
+    </tr>
+    @if (Model != null)
+    {
+        foreach (TicketViewModels item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Film)
+                </td>
+                <td>
+                    @item.SeanceDate.ToShortDateString()
+                </td>
+                <td>
+                    @item.SeanceTime.ToShortTimeString()
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Row)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Column)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    <a class="btn btn-danger" href=@Url.Action("Delete", "Ticket", new {id = item.Id})>
+                        <i class="fa fa-trash-o fa-lg"></i> Удалить
+                    </a>
+
+
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <h2>Ваша корзина пуста.</h2>
+    }
+
+
+</table>
+
+<a class="btn btn-success" href=@Url.Action("BuyResult", "Home")><i class="fa fa-usd"></i> Оплатить</a>

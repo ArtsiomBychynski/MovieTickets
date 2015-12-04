@@ -1,0 +1,69 @@
+﻿body {
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
+
+/* Set padding to keep content from hitting the edges */
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.posters {
+    display: inline;
+    float: left;
+    margin-top: 50px;
+    overflow: hidden;
+}
+
+.posters li { list-style-type: none; }
+
+.posters a {
+    margin: 0 auto;
+    padding-left: 20px;
+}
+
+.position {
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+.title-new-films {
+    padding-top: 20px;
+}
+.hall {
+    margin-left: 25%;
+    margin-top: 100px;
+}
+.form-hall {
+    padding-top: 50px;
+    padding-left: 250px;
+}
+.textarea {
+    min-height: 300px;
+    min-width: 500px;
+}
+
+.place { margin: 5px; }
+
+.vacantSeat, .reservedSeat, .selectedSeat { margin-bottom: 5px; }
+
+/* Set width on the form input elements since they're 100% wide by default */
+
+input[type="text"],
+input[type="password"] { max-width: 280px; }
+
+/* styles for validation helpers */
+
+.field-validation-error { color: #b94a48; }
+
+.field-validation-valid { display: none; }
+
+input.input-validation-error { border: 1px solid #b94a48; }
+
+input[type="checkbox"].input-validation-error { border: 0 none; }
+
+.validation-summary-errors { color: #b94a48; }
+
+.validation-summary-valid { display: none; }
